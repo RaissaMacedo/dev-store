@@ -2,15 +2,17 @@
 
 Este é um projeto de e-commerce desenvolvido com Next.js que aborda diversos tópicos avançados, incluindo:
 
-Fundamentos do App Router
-Arquitetura Next.js
-React Server Components
-Streaming SSR
-Client Components
-Routing
-Suspense API
-Técnicas de Data Fetching
-Cache & Memoization
+- Fundamentos do **App Router**
+- Arquitetura **Next.js**
+- **React Server Components**
+- **Streaming SSR**
+- **Client Components**
+- **Routing**
+- **Suspense API**
+- Técnicas de **Data Fetching**
+- **Cache & Memoization**
+- E muito mais
+
 Esta aplicação é um exemplo prático de como utilizar essas tecnologias e conceitos para criar uma aplicação web moderna, performática e escalável.
 
 ## Índice
