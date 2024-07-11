@@ -1,16 +1,24 @@
-# Aplicação Player
+# Dev-Store
 
-A Aplicação Player exibe vídeo-aulas organizadas em módulos e aulas. Utiliza o **Redux** para gerenciamento de estado, aplicando o conceito de **Thunk** para operações assíncronas. A interface da aplicação é estilizada com **Tailwind CSS**.
+Este é um projeto de e-commerce desenvolvido com Next.js que aborda diversos tópicos avançados, incluindo:
+
+Fundamentos do App Router
+Arquitetura Next.js
+React Server Components
+Streaming SSR
+Client Components
+Routing
+Suspense API
+Técnicas de Data Fetching
+Cache & Memoization
+Esta aplicação é um exemplo prático de como utilizar essas tecnologias e conceitos para criar uma aplicação web moderna, performática e escalável.
 
 ## Índice
 
 - [Descrição](#descrição)
 - [Instalação](#instalação)
 - [Configuração](#configuração)
-- [Uso](#uso)
-- [Contribuição](#contribuição)
-- [Licença](#licença)
-- [Contato](#contato)
+
 
 ## Descrição
 
